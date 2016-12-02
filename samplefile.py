@@ -1,2 +1,2 @@
 I am sample text
-Making a commit on git hun :-)
+Making a commit on git hub :-)
