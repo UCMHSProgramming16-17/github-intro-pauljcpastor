@@ -1,0 +1,3 @@
+git status - check on the status of your repository
+git log - shows record of commits
+git add - add files to staging area
